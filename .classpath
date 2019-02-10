@@ -2,9 +2,9 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/A7med Al-Dakrory/Desktop/java-json.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/A7med Al-Dakrory/Desktop/webcam-capture-0.3.13-20180618.102645-4.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/A7med Al-Dakrory/Desktop/libs/bridj-0.6.2.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/A7med Al-Dakrory/Desktop/libs/slf4j-api-1.7.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/bridj-0.6.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/java-json.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/slf4j-api-1.7.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/webcam-capture-0.3.13-20180618.102645-4.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
